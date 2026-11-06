@@ -1,0 +1,13 @@
+streamlit
+torch
+requests
+Pillow
+numpy
+matplotlib
+seaborn
+paddleocr
+opencv-python
+transformers
+safetensors
+huggingface_hub
+llama-cpp-python
